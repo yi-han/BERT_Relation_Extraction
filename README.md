@@ -44,18 +44,18 @@ Code structure:
   - readme.md
 
 ## Requirements
-botocore==1.21.36
-tqdm==4.51.0
-pandas==1.1.4
-six==1.12.0
-numpy==1.18.2
-tensorflow==1.14.0
-requests==2.21.0
-transformers==4.0.0
-boto3==1.18.36
-sentencepiece==0.1.96
-torch==1.9.0+cpu
-filelock==3.0.12
+botocore==1.21.36\
+tqdm==4.51.0\
+pandas==1.1.4\
+six==1.12.0\
+numpy==1.18.2\
+tensorflow==1.14.0\
+requests==2.21.0\
+transformers==4.0.0\
+boto3==1.18.36\
+sentencepiece==0.1.96\
+torch==1.9.0+cpu\
+filelock==3.0.12\
 scikit_learn==0.24.2
 
 ## Running the code
